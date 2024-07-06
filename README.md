@@ -2,12 +2,32 @@
 
 This repository contains code examples and instructions for running the latest JavaScript features of 2024 in Visual Studio Code.
 
+# JavaScript 2024 Features Overview
+
+This repository contains examples and explanations of new JavaScript features introduced in 2024. These features aim to enhance developer productivity, improve performance, and add new capabilities to JavaScript applications.
+
 ## Features Covered
-- **Decorators**: Add extra behavior to classes and methods.
-- **Records and Tuples**: Immutable data structures.
-- **Pipeline Operator**: Simplify function chaining.
-- **Temporal API**: Modern date and time handling.
-- **Top-Level Await**: Use `await` at the top level of modules.
+
+1. **Decorators**
+   - Example demonstrating how decorators can be used to modify class methods.
+
+2. **Records and Tuples**
+   - Example showcasing immutable data structures introduced as Records and Tuples.
+
+3. **Pipeline Operator**
+   - Demonstrates the pipeline operator for cleaner function chaining.
+
+4. **Pattern Matching**
+   - Shows how pattern matching simplifies conditional logic and value extraction.
+
+5. **Temporal API**
+   - Usage of the Temporal API for modern date and time handling.
+
+6. **Top-Level Await**
+   - Example illustrating top-level await for asynchronous module loading.
+
+7. **Enhanced Array Methods**
+   - New array methods for easier array manipulation.
 
 ## How to Run the Code
 
